@@ -1,6 +1,7 @@
 # Xcode
 #
 build/
+theos/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -16,6 +17,9 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+*.deb
+_/
+theos
 
 # CocoaPods
 #
