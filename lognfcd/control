@@ -1,0 +1,9 @@
+Package: com.peterfillmore.lognfcd
+Name: lognfcd
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: nfcd logger - logs messages to the device syslog from the nfcd. grep for "lognfcd" for outputted entries 
+Maintainer: Peter Fillmore
+Author: Peter Fillmore
+Section: Tweaks
