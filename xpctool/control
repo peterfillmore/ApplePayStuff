@@ -1,0 +1,10 @@
+Package: xpctool 
+Name: XPCTool 
+Depends:
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: tool for interacting with XPC services as a client 
+Maintainer: Peter Fillmore
+Author: Peter Fillmore
+Section: System
+Tag: role::hacker
